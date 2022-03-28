@@ -1,0 +1,29 @@
+{
+  "name": "boodstrap-petrichenko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/helen02027/uder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helen02027/uder/issues"
+  },
+  "homepage": "https://github.com/helen02027/uder#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  }
+}
